@@ -4,7 +4,7 @@
                       FECHA: 18 de junio de 2025
 -----------------------------------------------------------------
 
-AUTORES:
+Alumnos:
 - Gerardo Mauricio Aguilar Chávez – 00195721
 - Rodolfo Rafael García Castillo – 00082421
 - Carlos Alberto Hernández Guerra – 00002721
