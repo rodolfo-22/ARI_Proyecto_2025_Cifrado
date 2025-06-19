@@ -1,8 +1,7 @@
-=================================================================
                  PROYECTO: Cifrado de datos de clientes
                           VERSIÓN: 1.0
                       FECHA: 18 de junio de 2025
-=================================================================
+-----------------------------------------------------------------
 
 AUTORES:
 - Gerardo Mauricio Aguilar Chávez – 00195721
@@ -153,6 +152,4 @@ NOTAS ADICIONALES:
 - Para entornos de producción, es necesario configurar certificados SSL
   y mecanismos de autenticación robusta.
 
-=================================================================
-                   FIN DEL ARCHIVO DE DOCUMENTACIÓN
-=================================================================
+

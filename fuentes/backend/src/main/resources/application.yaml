@@ -1,0 +1,8 @@
+spring:
+  thymeleaf:
+    check-template-location: false
+  application:
+    name: QRGuard
+  mustache:
+    suffix: .html
+    check-template-location: false
